@@ -91,10 +91,6 @@ h1, h2, h3, h4, h5 {
 	text-align: center;
 }
 
-.logo {
-	/* placeholder for logo */
-}
-
 .hero {
 	padding-top: 5%;
 	display: flex;
@@ -326,10 +322,6 @@ footer .copyright {
 	.hero {
 		padding-top: 0;
 		justify-content: center;
-	}
-
-	.hero-left {
-		
 	}
 
 	.hero-right {
